@@ -1,4 +1,4 @@
-# tuple is a collection which is ordered and unchangeable. Allow duplicate members
+# Tuple is a collection which is ordered and unchangeable. Allows duplicate members
 fruits = ('apples', 'oranges', 'grapes')
 fruits2 = ('apples', 'oranges', 'grapes')
 

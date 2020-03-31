@@ -1,4 +1,4 @@
-# a dictionary is a collection which is unordered, changeable and indexed. No duplicate members
+# Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
 # just like JS Objects
 
 person = {

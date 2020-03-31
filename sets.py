@@ -1,4 +1,4 @@
-# set is a collection which unordered and unindexed. No duplicate members
+# Set is a collection which is unordered and unindexed. No duplicate members.
 fruit_sets = {'apples', 'oranges', 'mango'}
 
 # check if its in the set

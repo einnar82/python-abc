@@ -1,4 +1,4 @@
-# list is a collection of data, unordered or ordered
+# List is a collection which is ordered and changeable. Allows duplicate members.
 numbers = [1, 2, 3, 4, 5]
 fruits = ['apple', 'orange', 'pear']
 
